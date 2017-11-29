@@ -27,6 +27,7 @@ Acme, a construction corporation, that has registered with the corporate registr
 ## Use Cases
 
 * Acme Applies to WSA for Clearance Letter
+* WSA verifies that Acme has a registration with the Corporate Registry
 * WSA issues a Clearance Letter
 * WSA updates a Clearance Letter
 * WSA revokes a Clearance Letter
