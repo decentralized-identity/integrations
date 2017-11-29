@@ -1,4 +1,4 @@
-# User Stories - Home Addition Story
+# User Stories - Home Addition Scenario
 
 A homeowner is hiring a contractor with multiple employees to build an addition onto their home. The homeowner needs a Building Permit from the City Building Department and the contractor needs to get a Clearance Letter from the Worker Safety Agency (WSA). At various times, various entities involved (the WSA, the homeowner, the City Building Inspector, the WSA Inspector) need to verify documents held by others in the process. The need for documentation and the verification of those documents are described in the user stories below.
 
